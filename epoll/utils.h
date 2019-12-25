@@ -1,0 +1,14 @@
+#ifndef EPOLL_DEMO_UTILS_H
+#define EPOLL_DEMO_UTILS_H
+
+#define SERVER_IP "127.0.0.1"
+
+#define SERVER_PORT 8989
+
+#define MAXSIZE 1024
+
+#define EPOLL_SIZE 1000
+
+#define EPOLLEVENTS 100
+
+#endif
